@@ -2,7 +2,7 @@
 just a silly intro repository
 to facilitate getting familiarized with the basic functionalities of GitHub.
 
-# `by swaynec8` ...
+#### `by swaynec8` ...
 ----------------------------------------------------------------------------------------------------------------------------
 
 Heading
